@@ -2,4 +2,7 @@
 
 ALphabetical Forth - an ASCII mapped byte-code proposal for FORTH (standard and extented)
 
-See text file in directory.
+![Simply ALF](/alf.png)
+
+Full mapping for [ALF bytecode](https://github.com/yesco/ALForth/blob/main/alf-bytecode.txt).
+
