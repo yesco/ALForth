@@ -6,7 +6,11 @@
          (<) 2021 Jonas S Karlsson
               jsk@yesco.org
          
+
+LICENCE: MIT
+https://github.com/yesco/ALForth
 ================================================
+(TODO: convert to .md formatted document)
 
 The purpose of ALF is to replace SWEET16
 as an embedded 16-bit language. I found that
@@ -88,6 +92,22 @@ In ALF:
 
     :D:d+;
     
+CAVEAT
+
+This started out as an excercize to understand
+FORTH and build a 6502, 16-bit SWEET16 "forthy"
+assembler extention with mostly useful
+functions, but coded in ASCII for
+"readability". As such, it was limited.
+
+In general, the ideas are applicable for a wider
+scope. So I hereby publish it, for our
+collective modifications.
+
+Yours,
+   Jonas
+
+
 WORDS DEFINED
 
 Arithmetic:
